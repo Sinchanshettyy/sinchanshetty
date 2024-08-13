@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 130px;
+    width: 130px;
+}
+
+body{
+    background-color: #b3b461;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px,50px;
+    list-style-type: none;
+
+}
+footer{
+    font-style: bold;
+    text-align: center
+}
+
+.contact{
+    text-align:center;
+    border: solid 2px white;
+}
+
+.header{
+    border:solid 2px white;
+    text-align:center; 
+    background-color: beige;
+    
+}
